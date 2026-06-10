@@ -1,0 +1,98 @@
+{
+  "ref": "Sefer Etz Chaim 37:1",
+  "heRef": "עץ חיים ל״ז:א׳",
+  "isComplex": true,
+  "text": [],
+  "he": [
+    "השער הרביעי שער יעקב ולאה ויתחלק לה' פרקים:",
+    "ונבאר עתה ענין יעקב ולאה דרך כללות הנה לעיל בארנו כי אלו הם בחי' אחוריים של או\"א שנפלו בעת מיתת המלכים ולא ירדו לעולם הבריאה אלא נשארו באצילות במקום רחל שהיא נוקבא דז\"א לכן אין מיתה נזכר בהם רק נפילה וביטול בעלמא וכיון שכן לכן בעת התיקון של הזו\"ן שהם ישראל ורחל אחר שיתוקנו זו\"ן יתוקנו אלו האחוריים הנ\"ל ואין להם יכולת להתתקן כלל עד שיתוקנו זו\"ן ואע\"פ שהם אחור דאו\"א שהם יותר גבוהים מזו\"ן והיה ראוי שיתוקנו מקודם עכ\"ז כיון שהם אחוריים גמורים חיצונים שבאו\"א שהם דינין לכן צריך שיתוקנו תחלה זו\"נ בבחי' הגדלות כי יש בהם בחי' פנים ג\"כ ואח\"כ יתוקנו אחוריים של או\"א כי כיון שירדו במקום הנוקבא א\"כ בתיקונה יתוקנו גם הם כנ\"ל. וכבר נת\"ל שבאלו האחוריים לא נזכר בהם מיתה כי נשארו בעולם אצילות משא\"כ הזו\"נ וזה שארז\"ל (ג') נובלות (הן) נובלות חכמה של מעלה תורה גם במסכת דמאי אמרו נובלות תמרה פי' הענין כי הנה אבא הוא נקרא חכמה סתם דאצילות ומן אבא נפלו אחוריים שלו למטה במקום הנוקבא של אצילות כנ\"ל והנה יעקב הוא תורה שבכתב הנעשה מן אחוריים הנובלות מן החכמה העליונה שהוא אבא כמ\"ש בע\"ה ולהיות שהם דינין קשים ומרים כי הם אחוריים החצונים שבכולם באו\"א ולכן נקרא נובלת התמרה לשון מרירות ודינין קשין. או ירצה פי' אחר יובן בפסוק תורה צוה לנו משה מורשה כי חכמה זאת הוא בחי' כלי יסוד דאבא המלובש תוך ת\"ת דז\"א ומכח האורות שיוצאין ונופלין ממנו מחוץ אל ז\"א שם הוא עושה בחינת יעקב הנקרא תורה וז\"ס תורה צוה לנו משה הוא בחי' יסוד אבא המתפשט תוך ז\"א כמבואר אצלנו והוא אשר הוציא לחוץ את התורה שהוא בחי' קהלת יעקב שבו מתקבצין ונקהלין האורות היוצאין מיסוד אבא לחוץ ונעשין בחי' פרצוף יעקב:"
+  ],
+  "versions": [
+    {
+      "status": "locked",
+      "priority": "",
+      "license": "Public Domain",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "he",
+      "title": "Sefer Etz Chaim",
+      "versionSource": "http://www.hebrew.grimoar.cz/vital/ec_chajim.htm",
+      "versionTitle": "Sefer Etz Chaim",
+      "actualLanguage": "he",
+      "languageFamilyName": "hebrew",
+      "isSource": true,
+      "isPrimary": true,
+      "direction": "rtl"
+    }
+  ],
+  "textDepth": 3,
+  "sectionNames": [
+    "Gate",
+    "Chapter",
+    "Paragraph"
+  ],
+  "addressTypes": [
+    "Integer",
+    "Integer",
+    "Integer"
+  ],
+  "heTitle": "עץ חיים",
+  "titleVariants": [],
+  "heTitleVariants": [],
+  "type": "Kabbalah",
+  "primary_category": "Kabbalah",
+  "book": "Sefer Etz Chaim",
+  "categories": [
+    "Kabbalah",
+    "Arizal and Chaim Vital"
+  ],
+  "order": "",
+  "sections": [
+    37,
+    1
+  ],
+  "toSections": [
+    37,
+    1
+  ],
+  "isDependant": false,
+  "indexTitle": "Sefer Etz Chaim",
+  "heIndexTitle": "עץ חיים",
+  "sectionRef": "Sefer Etz Chaim 37:1",
+  "firstAvailableSectionRef": "Sefer Etz Chaim 37:1",
+  "heSectionRef": "עץ חיים ל״ז:א׳",
+  "isSpanning": false,
+  "heVersionTitle": "Sefer Etz Chaim",
+  "heVersionTitleInHebrew": "",
+  "heShortVersionTitle": "",
+  "heShortVersionTitleInHebrew": "",
+  "heVersionSource": "http://www.hebrew.grimoar.cz/vital/ec_chajim.htm",
+  "heVersionStatus": "locked",
+  "heVersionNotes": "",
+  "heExtendedNotes": "",
+  "heExtendedNotesHebrew": "",
+  "heVersionNotesInHebrew": "",
+  "heDigitizedBySefaria": false,
+  "heLicense": "Public Domain",
+  "formatHeAsPoetry": false,
+  "alts": [],
+  "index_offsets_by_depth": {},
+  "next": "Sefer Etz Chaim 37:2",
+  "prev": "Sefer Etz Chaim 36:4",
+  "commentary": [],
+  "sheets": [],
+  "layer": []
+}

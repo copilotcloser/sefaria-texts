@@ -1,0 +1,98 @@
+{
+  "ref": "Sefer Etz Chaim 38:1",
+  "heRef": "עץ חיים ל״ח:א׳",
+  "isComplex": true,
+  "text": [],
+  "he": [
+    "השער החמישי שער לאה ורחל ויתחלק לט' פרקים:",
+    "ואחר שבארנו ענין רחל ולאה נבאר עתה ענין שתיהן איך נרמזו בכ\"מ הנה הכתוב אומר הודיעני ה' קצי ומדת ימי מה היא כי הנה דוד הע\"ה היה מן המלכות כנודע וגם בסבא דמשפטים דוד הוי יתיב בעלמא דנוקבא גם מצינו שהיה בן לאה בסוד משיח בן דוד הבא מן יהודה בנה של לאה נמצא שהוא נשרש מן שתיהן וע\"כ רצה לחקור ולידע ולהבין בחכמה בחי' ב' נשים אלה שהם לאה ורחל איך היה מציאותן. וז\"ס הודיעני ה' קצי פי' הודיעני חכמה כדי שאדע בחי' קצי ומדת ימי שהם רחל ולאה שבהם תלוין מדת ימי וקצי כי משם נמשך לי חיות ולהיות שרחל היא תחתונה שהיא מל' האחרונה שבסוף י\"ס דאצילות וגם שהיא עומדת ברגלי ז\"א כנגד נה\"י שבו כנ\"ל לכ קראם קצי לשון קץ וסוף אך ללאה קראה מדת בסוד מה שנת\"ל איך ביארנו בכונת בשכמל\"ו כי לאה לוקחת הארה מן ד' מוחין של ז\"א שהם ד' הויות והם מלובשים תוך נה\"י דאמא שסודם ד' שמות אהי\"ה ולאה לוקחת הד' אלפי\"ן שבהם ונעשין ד' מוחין שבה. והנה ד' אלפי\"ן גימטריא מד\"ת שנת\"ל עניינה בענין אחר ע\"ש וזהו ומדת ימי מה הוא. והנה דוד ע\"ה היה מסופק לדעת כמה בחי' ושינוים שיש בין לאה לרחל ורצה לידע סודם ואחד מהשאלות ששאל דוד ע\"ה הוא לידע ענין א' שנתבאר אצלינו בכוונת בשכמל\"ו כי כתר שלה הוא ד' אלפי\"ן דד' שמות אהי\"ה כנ\"ל בהיותן פשוטין רק שכל אחד כלול מארבעתן נמצא שהם ט\"ז אותיות נמצא כי כתר של לאה הם ט\"ז אורות בלבד. אמנם הכתר של רחל שהם שאר אותיות של ד' אהי\"ה הנ\"ל שהם ד\"פ הי\"ה הי\"ה הי\"ה הי\"ה גימטריא פ' במנין וע\"ד אורות. וז\"ש ומדת ימי מה היא כי לאה נקרא מדת ימי למה היא לוקחת כמנין היא שהם ט\"ז אורות הנ\"ל לבד אבל רחל היא פ' אורות בכתר שלה והייתי רוצה לשאול מה חדל אני שאני מבחי' לאה כנ\"ל ואני חדל וגרוע מבחי' רחל ולמה הוא כך גם רמז באומרו מ\"ה הי\"א אל מה שנתבאר אצלינו כי ז\"א הוא הוי\"ה במילוי אלפי\"ן שהוא גימטריא מ\"ה. והנה יש בו ב\"פ מ\"ה א' מהחזה ולמעלה שיש בם מ\"ה א' כדי להוציא את לאה חמאחוריו ויש לו מ\"ה ב' להוציא את רחל מהחזה שבו ולמטה נמצא כי לאה יוצאת מבחי' שם מ\"ה גמור כמו שיש אל רחל שם מ\"ה אחר א\"כ כיון שהם שוין בענין זה של מ\"ה איך נשתנו בענין היא הנ\"ל שאין בה רק ט\"ז אורות כמנין הי\"א משא\"כ ברחל כנ\"ל. וז\"ס ומדת ימי מה היא שמאחר שהיא מ\"ה למה היתה הי\"א עוד יש שאלות אחרות רמוזים בזה הפסוק בענין לאה וחל ושכחתים:"
+  ],
+  "versions": [
+    {
+      "status": "locked",
+      "priority": "",
+      "license": "Public Domain",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "he",
+      "title": "Sefer Etz Chaim",
+      "versionSource": "http://www.hebrew.grimoar.cz/vital/ec_chajim.htm",
+      "versionTitle": "Sefer Etz Chaim",
+      "actualLanguage": "he",
+      "languageFamilyName": "hebrew",
+      "isSource": true,
+      "isPrimary": true,
+      "direction": "rtl"
+    }
+  ],
+  "textDepth": 3,
+  "sectionNames": [
+    "Gate",
+    "Chapter",
+    "Paragraph"
+  ],
+  "addressTypes": [
+    "Integer",
+    "Integer",
+    "Integer"
+  ],
+  "heTitle": "עץ חיים",
+  "titleVariants": [],
+  "heTitleVariants": [],
+  "type": "Kabbalah",
+  "primary_category": "Kabbalah",
+  "book": "Sefer Etz Chaim",
+  "categories": [
+    "Kabbalah",
+    "Arizal and Chaim Vital"
+  ],
+  "order": "",
+  "sections": [
+    38,
+    1
+  ],
+  "toSections": [
+    38,
+    1
+  ],
+  "isDependant": false,
+  "indexTitle": "Sefer Etz Chaim",
+  "heIndexTitle": "עץ חיים",
+  "sectionRef": "Sefer Etz Chaim 38:1",
+  "firstAvailableSectionRef": "Sefer Etz Chaim 38:1",
+  "heSectionRef": "עץ חיים ל״ח:א׳",
+  "isSpanning": false,
+  "heVersionTitle": "Sefer Etz Chaim",
+  "heVersionTitleInHebrew": "",
+  "heShortVersionTitle": "",
+  "heShortVersionTitleInHebrew": "",
+  "heVersionSource": "http://www.hebrew.grimoar.cz/vital/ec_chajim.htm",
+  "heVersionStatus": "locked",
+  "heVersionNotes": "",
+  "heExtendedNotes": "",
+  "heExtendedNotesHebrew": "",
+  "heVersionNotesInHebrew": "",
+  "heDigitizedBySefaria": false,
+  "heLicense": "Public Domain",
+  "formatHeAsPoetry": false,
+  "alts": [],
+  "index_offsets_by_depth": {},
+  "next": "Sefer Etz Chaim 38:2",
+  "prev": "Sefer Etz Chaim 37:5",
+  "commentary": [],
+  "sheets": [],
+  "layer": []
+}

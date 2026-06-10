@@ -1,0 +1,98 @@
+{
+  "ref": "Sefer Etz Chaim 48:1",
+  "heRef": "עץ חיים מ״ח:א׳",
+  "isComplex": true,
+  "text": [],
+  "he": [
+    "השער השמיני שער הקליפות ובו ד' פרקים:",
+    "דע כי הקליפות בעולם אצילות אינם אחוזים אלא בזו\"ן לבד אבל מבינה ולמעלה אין להם אחיזה כלל אבל בג' עולמות בי\"ע יש אל הקלי' אשר שם אחיזה ויניקה אפילו מבינה ולמעלה של אותו עולם. וסוד הענין דע כי הנה כל הקלי' לא נעשו אלא מן השמרים והברור של ז' מלכים שמתו כנודע והנה אותן ז' מלכים שמתו הם בחי' זו\"ן דאצילות לבד לפי שהמלכים של או\"א לא מתו כנזכר אצלינו שנשארו למעלה במקום אצילות ולא ירדו לעולם הבריאה וע\"כ לא היה בהם מיתה אבל הז' מלכים של הזו\"ן שירדו בבריאה ושם מתו אז נתעוררו ונתהוו הקלי' הנקרא מות והנה זו\"ן הם ב' אותיות אחרונים של הי\"ה והם ו\"ה שהם גימטריא י\"א לכן הקלי' הם י\"א ג\"כ בסוד י\"א סמני הקטורת כמבואר אצלינו בענין פטום הקטורת ובענין הקדיש של הודו והנה בזמן הגלות אז כבכול אין השם שלם לפי שזו\"ן שהם ב' אותיות ו\"ה אחרונים הם נפרדין מן או\"א שהם אותיות י\"ה ויורדין למטה ומהם נמשך הארה אל הקלי' יען ששרשם הם משם כנ\"ל והם מאירין בהם ומחיים אותן בסוד י\"א סמני הקטורת שהם חיות הקלי' ורוחניותן אשר נמשכו מב' אותיות ו\"ה כנ\"ל הן י\"א בחי' משם ו\"ה היורד שם וכאשר עולין זו\"ן למעלה עד עולם אצילות ומתחברים עם או\"א שהם י\"ה אז מסתלקין ועולין גם כן למעלה י\"א סמני הקטורת שהם חיות הקלי' אשר נמשכו מן ו\"ה ואז הקלי' מתבטלים ואז השם עליון נעשה שלם:"
+  ],
+  "versions": [
+    {
+      "status": "locked",
+      "priority": "",
+      "license": "Public Domain",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "he",
+      "title": "Sefer Etz Chaim",
+      "versionSource": "http://www.hebrew.grimoar.cz/vital/ec_chajim.htm",
+      "versionTitle": "Sefer Etz Chaim",
+      "actualLanguage": "he",
+      "languageFamilyName": "hebrew",
+      "isSource": true,
+      "isPrimary": true,
+      "direction": "rtl"
+    }
+  ],
+  "textDepth": 3,
+  "sectionNames": [
+    "Gate",
+    "Chapter",
+    "Paragraph"
+  ],
+  "addressTypes": [
+    "Integer",
+    "Integer",
+    "Integer"
+  ],
+  "heTitle": "עץ חיים",
+  "titleVariants": [],
+  "heTitleVariants": [],
+  "type": "Kabbalah",
+  "primary_category": "Kabbalah",
+  "book": "Sefer Etz Chaim",
+  "categories": [
+    "Kabbalah",
+    "Arizal and Chaim Vital"
+  ],
+  "order": "",
+  "sections": [
+    48,
+    1
+  ],
+  "toSections": [
+    48,
+    1
+  ],
+  "isDependant": false,
+  "indexTitle": "Sefer Etz Chaim",
+  "heIndexTitle": "עץ חיים",
+  "sectionRef": "Sefer Etz Chaim 48:1",
+  "firstAvailableSectionRef": "Sefer Etz Chaim 48:1",
+  "heSectionRef": "עץ חיים מ״ח:א׳",
+  "isSpanning": false,
+  "heVersionTitle": "Sefer Etz Chaim",
+  "heVersionTitleInHebrew": "",
+  "heShortVersionTitle": "",
+  "heShortVersionTitleInHebrew": "",
+  "heVersionSource": "http://www.hebrew.grimoar.cz/vital/ec_chajim.htm",
+  "heVersionStatus": "locked",
+  "heVersionNotes": "",
+  "heExtendedNotes": "",
+  "heExtendedNotesHebrew": "",
+  "heVersionNotesInHebrew": "",
+  "heDigitizedBySefaria": false,
+  "heLicense": "Public Domain",
+  "formatHeAsPoetry": false,
+  "alts": [],
+  "index_offsets_by_depth": {},
+  "next": "Sefer Etz Chaim 48:2",
+  "prev": "Sefer Etz Chaim 47:6",
+  "commentary": [],
+  "sheets": [],
+  "layer": []
+}

@@ -1,0 +1,98 @@
+{
+  "ref": "Sefer Etz Chaim 13:1",
+  "heRef": "עץ חיים י״ג:א׳",
+  "isComplex": true,
+  "text": [],
+  "he": [
+    "שער שני שער א\"א ובו י\"ד פרקים:",
+    "ונבאר תיקון א\"א אשר נתקן אחר עתיק יומין הנה נת\"ל שנעשה מבחי' חכמה דמ\"ה שהם בחי' נקודות דמ\"ה ומן ה' אחרונות דכתר דב\"ן והוא כולל זכר ונקבה מ\"ה בימינו וב\"ן בשמאלו כנ\"ל והנה הוא מלביש לע\"י באופן זה כי הנה ג\"ר דעתיק אי אפשר שיתלבשו תוך א\"א וגם אי אפשר לקבל אורם ולכן נשארין מגולים והם עומדין לבחי' מקיף אל א\"א והז\"ת דעתיק לבדם מתלבשין תוך א\"א באופן זה כי כח\"ב דא\"א מלבישין לחג\"ת דע\"י וז\"ת דא\"א מלבישין לנה\"י דעתיק באופן זה כי הנה ג' פרקין יש בנצח דעתיק וב\"פ קדמאין מתלבשים תוך חסד ונצח דא\"א וכן ב\"פ קדמאין דהוד דעתיק מתלבשין תוך גבורה והוד דא\"א ונשארו פרק תחתון דנצח דעתיק ופ\"ת דהוד דעתיק מגולין בלתי התלבשות ואלו נשארו למטה בבריאה תחת האצילות כדי להאיר שם לעולם הבריאה ואלו הם כדמיון ב' דדי בהמה שעומדין שם אצל הרגלים אשר כל אלו הבחי' של א\"א ואו\"א וזו\"נ כשנתקנו (נ\"א שהם נתקנו) בעת שנאצלו היו למטה שם בבריאה והתחילו לעלות וינקו תחלה מב' בחי' דדי בהמה ואחר כך הגדילו יותר וינקו מדדי אדם כמ\"ש בע\"ה בתחלת דרוש תיקון ז\"א והנה יסוד של עתיק מתלבש תוך ת\"ת דא\"א עד החזה ושם הוא מסתיים. ודע כי ביסוד דע\"י יש שם ה\"ח וה\"ג ואע\"פ שעתיק הוא זו\"נ שהם מ\"ה וב\"ן כנ\"ל וא\"כ היה מן הראוי שיהיה בו ה\"ח וה\"ג מצד הזכר וכן מצד הנוקבא ע\"ד שיש באו\"א וזו\"נ כמ\"ש במקומו אבל לפי ששם הזכר והנקבה הם פרצופים חלוקים לכן יש שם חו\"ג בכ\"א מהן אבל כאן שהזכר והנוקבא דעתיק הם פרצוף א' מחוברים כנ\"ל לכן לא היה בו רק ה\"ח וה\"ג בלבד ואלו ה\"ח וה\"ג יוצאין ומתגלין מתוך פי יסוד דעתיק הנעלם ומתלבש תוך א\"א ומתפשטין ה\"ח בקו ימין דא\"א מבפנים וה\"ג בקו שמאל כמ\"ש בע\"ה לקמן בענין או\"א:"
+  ],
+  "versions": [
+    {
+      "status": "locked",
+      "priority": "",
+      "license": "Public Domain",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "he",
+      "title": "Sefer Etz Chaim",
+      "versionSource": "http://www.hebrew.grimoar.cz/vital/ec_chajim.htm",
+      "versionTitle": "Sefer Etz Chaim",
+      "actualLanguage": "he",
+      "languageFamilyName": "hebrew",
+      "isSource": true,
+      "isPrimary": true,
+      "direction": "rtl"
+    }
+  ],
+  "textDepth": 3,
+  "sectionNames": [
+    "Gate",
+    "Chapter",
+    "Paragraph"
+  ],
+  "addressTypes": [
+    "Integer",
+    "Integer",
+    "Integer"
+  ],
+  "heTitle": "עץ חיים",
+  "titleVariants": [],
+  "heTitleVariants": [],
+  "type": "Kabbalah",
+  "primary_category": "Kabbalah",
+  "book": "Sefer Etz Chaim",
+  "categories": [
+    "Kabbalah",
+    "Arizal and Chaim Vital"
+  ],
+  "order": "",
+  "sections": [
+    13,
+    1
+  ],
+  "toSections": [
+    13,
+    1
+  ],
+  "isDependant": false,
+  "indexTitle": "Sefer Etz Chaim",
+  "heIndexTitle": "עץ חיים",
+  "sectionRef": "Sefer Etz Chaim 13:1",
+  "firstAvailableSectionRef": "Sefer Etz Chaim 13:1",
+  "heSectionRef": "עץ חיים י״ג:א׳",
+  "isSpanning": false,
+  "heVersionTitle": "Sefer Etz Chaim",
+  "heVersionTitleInHebrew": "",
+  "heShortVersionTitle": "",
+  "heShortVersionTitleInHebrew": "",
+  "heVersionSource": "http://www.hebrew.grimoar.cz/vital/ec_chajim.htm",
+  "heVersionStatus": "locked",
+  "heVersionNotes": "",
+  "heExtendedNotes": "",
+  "heExtendedNotesHebrew": "",
+  "heVersionNotesInHebrew": "",
+  "heDigitizedBySefaria": false,
+  "heLicense": "Public Domain",
+  "formatHeAsPoetry": false,
+  "alts": [],
+  "index_offsets_by_depth": {},
+  "next": "Sefer Etz Chaim 13:2",
+  "prev": "Sefer Etz Chaim 12:5",
+  "commentary": [],
+  "sheets": [],
+  "layer": []
+}

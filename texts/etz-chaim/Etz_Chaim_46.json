@@ -1,0 +1,98 @@
+{
+  "ref": "Sefer Etz Chaim 46:1",
+  "heRef": "עץ חיים מ״ו:א׳",
+  "isComplex": true,
+  "text": [],
+  "he": [
+    "השער הששי שער כסא הכבוד ובו ו' פרקים:",
+    "דרוש מעוט הירח ודרוש הכסא ובו יתבאר מאמר ר\"מ בפ' בא דמ\"ג וז\"ל ולבתר עביד משמשין לאילין מאנין כורסייא בד' סמכין ושית דרגין לכורסייא הא עשרה וכולא איהו כורסייא ע\"כ. והדברים תמוהים כי אם מספר רגלי הכסא הם ד' ודרגין דיליה הם ו' הרי י\"ס א\"כ מהו הכסא עצמו אבל הענין הוא דע כי כל עולם ועולם מאבי\"ע הוא בחי' י' ויש בו בחי' י\"ג ג\"כ והנה בריאה יש בה י\"ס והם הנקרא שית דרגין לכורסייא שהם ו' היכלות שיש מלבנת הספיר עד היכל הרצון וד' רגלין דכורסיא הם בהיכל ק\"ק ואלו הד' רגלין הם ההיכל ז' דבריאה והנה היכל זה כולל ד' היכלין כחב\"ד דבריאה ואלו הן ד' רגלין דכורסייא. ואמנם אע\"פ שהם ד' רגלין אינן נחשבין במנין רק במספר ג' היכלין שהם כח\"ב לפי שהדעת שהוא הד' אינו עולה במנין כי הוא נעלם מאד בין חו\"ב ונודע כי אמא מקננא בכורסייא בג' ספיראן דבריאה והם ג' אורות שירדו מאמא מקננא בג' ספיראן והם נשמה דבריאה הנקרא כסא הכבוד ואלו הג' אורות שהם הכסא נקרא ק\"ק קודש חד קדשים תרי הא תלת והם מתלבשים בהיכל הז' העליון הכולל ד' הילכין שהם ד' רגלים שהם ד' מוחי הבריאה ולכן נקרא היכל זה היכל ק\"ק ר\"ל היכל שבו מתלבשים ג' אורות הכסא הנקרא ק\"ק והרי עתה נשלם מ\"ש למעלה כי עולם הבריאה הוא בחי' עשר והוא בחי' י\"ג שהם י\"ס ועוד ג' אורות הנקרא כסא המתלבשין בו. והנה ענין כסא זה הוא כי הנה אמרו בתיקונים דאמא מקננא בג' ספירן עילאין דבריאה וכבר נודע כי מתנה\"י דז\"א נתהוה אור ד' מוחין של הנקבה עליונה אשר באצילות וכל הי\"ס שבה ולעולם שיעור קומתה בד\"ס תנה\"י דז\"א לבד כי לכך היא נקרא ד' כנודע לכן גם ממנה נתהוה אור א' כלול מד' אורות ונתהוה מתנה\"י שהם ד' אורות האלו ואלו הם יורדין ומתלבשים בהיכל העליון הז' בד' היכלות אשר בו כנ\"ל. ואל תאמר כי תנה\"י עצמן דמלכות דאצילות הם עצמן נעשים מוחין למטה רק מאירין ד' אורות הנ\"ל והם היורדי למטה בהיכל הנ\"ל והם הנקרא כסא והם נשמת הבריאה המתלבשים בכחב\"ד דבריאה הנקרא ד' היכלין שבהיכל הז' העליון הנ\"ל ומזה תבין כי כל העולמות הם כסדר א' כי כמו שתנה\"י דבינה הם מוחין דז\"א כן תנה\"י דז\"א הם מוחין דנוקבא וכן תנה\"י דמלכות הם מוחין דבריאה והבן זה וכבר נתבאר שאין תנה\"י עצמן נעשים מוחין למטה בבריאה רק האורות שלהם כנ\"ל:"
+  ],
+  "versions": [
+    {
+      "status": "locked",
+      "priority": "",
+      "license": "Public Domain",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "he",
+      "title": "Sefer Etz Chaim",
+      "versionSource": "http://www.hebrew.grimoar.cz/vital/ec_chajim.htm",
+      "versionTitle": "Sefer Etz Chaim",
+      "actualLanguage": "he",
+      "languageFamilyName": "hebrew",
+      "isSource": true,
+      "isPrimary": true,
+      "direction": "rtl"
+    }
+  ],
+  "textDepth": 3,
+  "sectionNames": [
+    "Gate",
+    "Chapter",
+    "Paragraph"
+  ],
+  "addressTypes": [
+    "Integer",
+    "Integer",
+    "Integer"
+  ],
+  "heTitle": "עץ חיים",
+  "titleVariants": [],
+  "heTitleVariants": [],
+  "type": "Kabbalah",
+  "primary_category": "Kabbalah",
+  "book": "Sefer Etz Chaim",
+  "categories": [
+    "Kabbalah",
+    "Arizal and Chaim Vital"
+  ],
+  "order": "",
+  "sections": [
+    46,
+    1
+  ],
+  "toSections": [
+    46,
+    1
+  ],
+  "isDependant": false,
+  "indexTitle": "Sefer Etz Chaim",
+  "heIndexTitle": "עץ חיים",
+  "sectionRef": "Sefer Etz Chaim 46:1",
+  "firstAvailableSectionRef": "Sefer Etz Chaim 46:1",
+  "heSectionRef": "עץ חיים מ״ו:א׳",
+  "isSpanning": false,
+  "heVersionTitle": "Sefer Etz Chaim",
+  "heVersionTitleInHebrew": "",
+  "heShortVersionTitle": "",
+  "heShortVersionTitleInHebrew": "",
+  "heVersionSource": "http://www.hebrew.grimoar.cz/vital/ec_chajim.htm",
+  "heVersionStatus": "locked",
+  "heVersionNotes": "",
+  "heExtendedNotes": "",
+  "heExtendedNotesHebrew": "",
+  "heVersionNotesInHebrew": "",
+  "heDigitizedBySefaria": false,
+  "heLicense": "Public Domain",
+  "formatHeAsPoetry": false,
+  "alts": [],
+  "index_offsets_by_depth": {},
+  "next": "Sefer Etz Chaim 46:2",
+  "prev": "Sefer Etz Chaim 45:4",
+  "commentary": [],
+  "sheets": [],
+  "layer": []
+}
